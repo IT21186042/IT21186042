@@ -1,3 +1,5 @@
+
+![Passionate Learner](https://github.com/IT2189042/IT21186042/blob/main/Dinidu1.jpg)
 <h1 align="center">Hi 👋, I'm Dinidu Ekanayaka</h1>
 <h3 align="center">A passionate Learner</h3>
 
